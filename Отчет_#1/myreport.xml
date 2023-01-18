@@ -393,7 +393,7 @@ where "Document_Дата_регистрации" &gt;= '{От}' and "Document_Д
             <Text8 Ref="28" type="Text" isKey="true">
               <Border>None;[0:0:0];1;Solid;False;4;Black</Border>
               <Brush>[0:255:255:255]</Brush>
-              <ClientRectangle>6.8,0,6.4,0.8</ClientRectangle>
+              <ClientRectangle>6.8,0,5.4,0.8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -451,10 +451,10 @@ where "Document_Дата_регистрации" &gt;= '{От}' and "Document_Д
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>1/17/2023 4:30:56 PM</ReportChanged>
+  <ReportChanged>1/18/2023 12:28:11 PM</ReportChanged>
   <ReportCreated>1/16/2023 5:24:15 PM</ReportCreated>
-  <ReportFile>C:\Users\test\AppData\Local\Temp\Cognitive\08E7C6602\myreport.xml</ReportFile>
-  <ReportGuid>6d601ee69d1d401287db73c5f3635a9a</ReportGuid>
+  <ReportFile>C:\Users\test\AppData\Local\Temp\Cognitive\097A623E8\myreport.xml</ReportFile>
+  <ReportGuid>c4724b9acd6e4130b9ea39e0566a7ad3</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Centimeters</ReportUnit>
   <ReportVersion>2022.1.2.0</ReportVersion>
